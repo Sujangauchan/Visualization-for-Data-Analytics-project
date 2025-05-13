@@ -14,6 +14,6 @@ This project analyzes cause-of-death statistics to understand global health tren
 * **Polynomial regression:** Polynomial regression modeling to map mortality rate based on age.
 * **Time Series Analysis:** Forecasting mortality rates using LSTM and Arima models.
 * **Clustering:** Grouping regions with similar mortality patterns using K-Means clustering.
-* **Spark Analysis:** Performing bid data data analysis and processing for scalability.
+* **Spark Analysis:** Performing big data data analysis and processing for scalability using pyspark.
 
 **Access the Data:** Visit the [WHO Mortality Database](https://www.who.int/data/data-collection-tools/who-mortality-database) website and follow their instructions to access and download the specific data of interest.
